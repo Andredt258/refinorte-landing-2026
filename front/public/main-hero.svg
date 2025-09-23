@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 958.43 1238.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9d401;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #58ab32;
+      }
+
+      .cls-3 {
+        fill: #f8d420;
+        opacity: .3;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre);
+        mix-blend-mode: multiply;
+      }
+
+      .cls-5 {
+        opacity: .25;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="-2005.09" y1="1975.95" x2="-1965.16" y2="1975.95" gradientTransform="translate(-1338.26 2595.3) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stopColor="#fff"/>
+      <stop offset="1" stopColor="#b3b3b2"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-6">
+    <g id="Capa_1-2" data-name="Capa 1">
+      <g>
+        <polygon class="cls-1" points="626.91 597.92 958.43 857.81 958.43 517.45 626.91 257.57 626.91 597.92"/>
+        <polygon class="cls-3" points="626.91 257.57 88.32 -124.95 -85.85 40.74 626.91 597.92 626.91 257.57"/>
+        <polygon class="cls-5" points="425.08 1238.7 626.91 975.05 626.91 639.54 90.53 1238.53 425.08 1238.7"/>
+        <polygon class="cls-2" points="626.91 1238.53 958.43 857.27 958.43 516.9 306.58 1238.7 626.91 1238.53"/>
+        <rect class="cls-4" x="626.9" width="39.93" height="1238.71"/>
+      </g>
+    </g>
+  </g>
+</svg>
