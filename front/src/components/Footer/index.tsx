@@ -270,7 +270,7 @@ const Footer = () => {
               <Image src="/images/logo.png" alt="logo" width={200} height={30} />
             </div>
             <p className="text-center text-base text-body-color dark:text-white">
-              REFINORTE &copy; 2025. Todos los derechos reservados.
+              REFINORTE &copy; 2026. Todos los derechos reservados.
             </p>
           </div>
         </div>

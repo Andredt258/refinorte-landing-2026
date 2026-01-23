@@ -38,7 +38,7 @@ const Hero = () => {
                   viewport={{once: true}}
                   variants={slideInFromRight({ delay: 0.6 })}
                 >
-                  La nueva era agroindustrial en Norte de Santander
+                  La nueva era Industrial en Norte de Santander
                 </motion.h1>
                 <motion.p
                   className="mb-12 text-base !leading-relaxed text-body-color dark:text-gray-300 sm:text-lg md:text-xl"
@@ -47,7 +47,7 @@ const Hero = () => {
                   viewport={{once: true}}
                   variants={slideInFromRight({ delay: 0.8 })}
                 >
-                  Complejo Agroindustrial Integrado De
+                  Complejo Industrial Integrado De
                   Refinación De Aceites Comestibles, Margarinas,
                   Shortenings, Productos Nutracéuticos
                   Intermedios Y Jabonería.

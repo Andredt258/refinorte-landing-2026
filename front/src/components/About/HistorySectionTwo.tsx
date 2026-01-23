@@ -53,7 +53,7 @@ const HistorySectionTwo = () => {
                   viewport={{once: true}}
                   variants={slideInFromRight({ delay: 0.9 })}
                 >
-                  El Complejo Agroindustrial Integrado más moderno de Latinoamérica, se consolida con la participación de muchos que creyeron que si era posible.
+                  El Complejo Industrial Integrado más moderno de Latinoamérica, se consolida con la participación de muchos que creyeron que si era posible.
                 </motion.p>
               </div>
               <div className="mb-1">
